@@ -2,7 +2,7 @@
 
 TensorFlow implementation for [Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How]()
 
-Yuning You, Yue Cao, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen
+Yuning You, Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen
 
 In ICLR 2022.
 
