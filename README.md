@@ -59,7 +59,12 @@ and you can select ```$lambda1``` from {10, 1, 0.1, 0.01, 0.001}.
 
 If you use this code for you research, please cite our paper.
 ```
-TBD
+@inproceedings{you2021bayesian,
+  title={Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How},
+  author={You, Yuning and Cao, Yue and Chen, Tianlong and Wang, Zhangyang and Shen, Yang},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
+}
 ```
 
 
