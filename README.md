@@ -1,6 +1,6 @@
 # Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How
 
-TensorFlow implementation for [Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How]()
+TensorFlow implementation for [Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)
 
 Yuning You, Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen
 
@@ -59,11 +59,12 @@ and you can select ```$lambda1``` from {10, 1, 0.1, 0.01, 0.001}.
 
 If you use this code for you research, please cite our paper.
 ```
-@inproceedings{you2021bayesian,
-  title={Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How},
-  author={You, Yuning and Cao, Yue and Chen, Tianlong and Wang, Zhangyang and Shen, Yang},
-  booktitle={International Conference on Learning Representations},
-  year={2021}
+@inproceedings{you2022bayesian,
+title={Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How},
+author={Yuning You and Yue Cao and Tianlong Chen and Zhangyang Wang and Yang Shen},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=EVVadRFRgL7}
 }
 ```
 
